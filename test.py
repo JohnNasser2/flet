@@ -54,7 +54,7 @@ def main(page: Page):
         Container(
             height=page.height,
             # bgcolor=colors.BLACK
-            padding=20,
+            padding=20
         )
     )
 
